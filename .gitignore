@@ -1,2 +1,7 @@
-.idea
+# intellij
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
 **/build
