@@ -1,0 +1,5 @@
+name: Atom
+version: 1.0
+main: project.cyberproton.atom.bukkit.BukkitAtom
+authors: [Cyberproton]
+api-version: 1.13
